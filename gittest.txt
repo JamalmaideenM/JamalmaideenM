@@ -1,5 +1,5 @@
 task:
------
+=====
 ELB - load balancer types:
 1.application load balancer
 2.network load balancer
@@ -37,13 +37,8 @@ what are the routing policies are in R53?
   dns name mapping the ip adsress (specified app/web)
   user hits the dns name of the specified app/web the caches are lives in dns resolver to defined time interval is a ttl
   TTL- min-1min max-2days 
-
-
-
-
-
 ELB&ASG:
---------
+========
 EC2-load balancer
    -auto scaling
 AMI-Amazon Machine Image-image of your machine(an executable image of an already existing ec2 instance)
